@@ -1,0 +1,251 @@
+﻿asset.display_ipv4_address,asset.name,asset.operating_system,asset.tags,definition.name,id,output,severity
+10.34.21.91,phld26417,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""PCI"",""value"":""All""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,e7f2526c-5797-48a4-ad1e-264cbcfddd02,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.21.21.164,phld28701,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,e81a55b0-9813-4b01-a0f5-f6df68dd0317,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.64,wasd19825,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""All""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,e9132b34-9d2f-4d61-8e5b-6be11ede7ea0,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.12.159,grcd18449,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,eb6c8cab-901e-4244-828d-395b0b010c14,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.21.11.136,lncd20726,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,ebb594ad-c7b5-45e2-aea4-cf73bece2e0f,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.41.216.93,bgdd20908,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,ec1273f5-ef34-45be-bd80-ca82471e2780,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.20.23.173,bead25478,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,ec2618a2-64ab-4565-94ef-b4633c8e7a79,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.41.67.64,chid20709,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Compliance"",""value"":""PCI Scope - Dynamic""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,ecbfca35-ea0f-4110-a871-947925da0314,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+10.41.200.100,chid29677,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,ee663f1c-9a84-45f6-92bf-d33bf35b1e88,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.0.0.167,phld24897,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""Unknown""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,eea76866-5987-406f-8cc2-adc2d0302235,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+10.21.124.188,nwkd24317,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,eec87ae8-7907-446d-bc63-8fcd45b28304,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.21.11.97,lncd25930,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,eee215a6-a9bb-42c2-a587-fa8432c67e7d,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.23.20.98,nypd28059,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,ef2df399-9557-4008-a315-52153dfd9846,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.240.15.61,nhvd22783,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f022df94-a0bb-4494-8e29-f3d7e646ac2d,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.151,bald18632,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""PCI"",""value"":""All""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f065b865-1045-48f6-90e9-d5ffd57b1943,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.2.104.249,zzzd35262,Microsoft Windows 10 Pro Build 19045,"[{""category"":""Operating Systems"",""value"":""Windows 10 Pro""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f15e01fe-1583-459e-a57c-e6927d2ec4f7,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.21.171.175,phlj83740,Microsoft Windows 10 Enterprise Build 19044,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f2016b47-fe04-4a66-81e1-3d41f365985b,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.40.50.109,indd32556,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f2fd0221-2a60-4e2a-9eb0-00be9c442708,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.21.21.240,phld22885,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f30ed561-019c-441d-9d8d-07507b5a5bef,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.152,wild19520,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""Compliance"",""value"":""PCI Scope - Dynamic""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f327b6a9-9bd8-4e05-959c-82785c3143dd,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.243,bead25623,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f3a90210-575d-45a5-8a89-39700b9c6e49,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+10.41.38.92,miad31832,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f3b6361b-090e-40f3-b288-a7a396be3d00,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.0.0.50,wusd20083,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f3fa1fe2-f31f-4f67-a623-6a6c1935ed38,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 118.0.2088.76
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.191,nrkd04298,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f417848c-cd16-4ff2-965f-d043d895496d,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.101.7.25,pvdj84776,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f44d7d9e-b9dd-47b8-9577-0998182bd104,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.253,wusd28090,Microsoft Windows 10 Enterprise Build 19042,"[{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f459179f-93b1-450b-9f87-cdb2d23a1f6b,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.52.15.71,wasd28611,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f481bafa-6fac-4757-a9ec-ae69298e4f37,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.172,wasd25288,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f54f4b37-b2ca-4a65-9597-9147b2ae004e,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.0.0.173,phld24636,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f56533a8-de8e-44bb-b6a7-f91865b7703f,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.25.4.249,phld26906,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f62b2153-ed88-4539-bd0b-a82b25723af6,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.41.111.232,omad09452,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f6d9c9fa-d517-495a-b30d-d8f22360e7c4,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.24.161.189,alxd18851,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""Unknown""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f725216f-605b-4b2b-8d51-8928815def40,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.133,laxd35277,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""Compliance"",""value"":""PCI Scope - Dynamic""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f90e1cd7-1289-4a12-a2cc-876e7a2f46e9,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+10.53.70.54,ivyd31111,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f930e4d2-1567-461e-bbe3-91ff8e43b0b8,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.164,wild25221,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""PCI"",""value"":""All""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f97a32e8-1648-4a33-abb0-eca19c253c92,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.4.66,otmd25226,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""PCI"",""value"":""All""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f9e1903e-c238-4b84-b8e6-0682c782d0ce,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.177,wusd10429,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""PCI"",""value"":""Unknown""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,f9f60f8e-5bc6-4a02-8cfd-dd0054154e27,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.52.2.67,ivyd20727,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""Compliance"",""value"":""PCI Range""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fa03df32-db9a-4c5f-b3ba-f0f8e96a86db,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.192,wild20504,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""PCI"",""value"":""All""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fa41be1a-7405-4dff-b17e-5a7994f2e914,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+10.0.0.153,hfdd18903,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""Compliance"",""value"":""2023-Jun-02-PCI""},{""category"":""PCI"",""value"":""AMT-US-ASHB-VA-EQ-1""},{""category"":""PCI"",""value"":""PALO-ATK-FWMHA24-25""},{""category"":""Compliance"",""value"":""PCI Range""},{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fb0302ff-0f5c-4c53-812d-46b63ad1d697,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.22.52.91,bosj82552,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fb46cdfa-7ffb-4524-abb0-c032c13d2a11,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.0.91,nypj87241,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fb67ff2b-0b21-42af-9b19-45c7cb4de51a,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.23.20.116,nypd25564,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fc05822e-7dae-4c10-9590-2ae528a75247,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.160,wild24674,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fc606b1c-78e0-4a70-a117-b7c6e3c20ce6,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.1.212,atld19540,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""PCI"",""value"":""Unknown""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fcb75c69-6999-4ac3-be43-5efd8da38f8c,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.53.35.45,wusj80651,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fce4b489-65cf-43af-8b15-3ba74133b0a7,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.249.4.54,ssyd32477,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fcf82919-f11b-4d9e-a3f2-b8979c15555e,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.23.64.222,zzzd35104,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fd4dff02-2d6d-41bc-9fa3-3666fc08a00e,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.93
+  Fixed version     : 120.0.2210.61
+",Critical
+192.168.228.84,jxnd18465,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""},{""category"":""All Objects"",""value"":""All Objects""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fe5e0f54-035a-4992-9a81-88f97fab74f7,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
+10.0.0.246,zzzd35259,Microsoft Windows 10 Enterprise Build 19045,"[{""category"":""10.0.0.0/8"",""value"":""Exclude Data Center""},{""category"":""PCI"",""value"":""All""},{""category"":""PCI"",""value"":""AWS Virtual Data Services""},{""category"":""All Objects"",""value"":""All Objects""},{""category"":""Operating Systems"",""value"":""Windows 10 Enterprise""}]",Microsoft Edge (Chromium) < 120.0.2210.61 Multiple Vulnerabilities,fea88d80-d7ca-4513-8609-879b7d5c7264,"'
+  Path              : C:\Program Files (x86)\Microsoft\Edge\Application
+  Installed version : 119.0.2151.97
+  Fixed version     : 120.0.2210.61
+",Critical
