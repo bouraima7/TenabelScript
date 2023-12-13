@@ -19,11 +19,16 @@ def read_csv_file(file_path):
         return None
            # Includes error handling for file reading issues.
 
-file_path = r'sample.csv'  
+file_path = r'vulnerabilities-verified.csv'  
 # Path to the CSV file
 
 data = read_csv_file(file_path)
 # Reads the CSV file
+
+
+# 100K plus
+# exported as Excel
+
 # Separate each column into a variable if data is available
 if data is not None:
     display_ipv4_address = data['asset.display_ipv4_address']
@@ -43,7 +48,7 @@ else:
 # Separate which data you want in each column 
 
 print(asset_tags.head()) #column maybe?
-print(asset_id.head())
+#print(asset_id.head())
 print(asset_name.head())
 print(vulnerability_id.head())
 print(severity.head())
