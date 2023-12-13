@@ -1,10 +1,11 @@
-import pandas as pd 
-# imports the path
-
+import pandas as pd
+from datetime import datetime
 
 def read_csv_file(file_path):
-    # Reads a CSV file and returns a DataFrame.
-
+    """
+    Reads a CSV file and returns a DataFrame.
+    Includes error handling for file reading issues.
+    """
     try:
         data = pd.read_csv(file_path)
         return data
@@ -17,39 +18,46 @@ def read_csv_file(file_path):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         return None
-           # Includes error handling for file reading issues.
 
-file_path = r'vulnerabilities-verified.csv'  
 # Path to the CSV file
+file_path = r'C:\Users\sufia\Hmm\Amtrak\vulnerabilities-verified.csv'  
 
+# Read the CSV file
 data = read_csv_file(file_path)
-# Reads the CSV file
 
-
-# 100K plus
-# exported as Excel
-
-# Separate each column into a variable if data is available
+# Check if data is available
 if data is not None:
-    display_ipv4_address = data['asset.display_ipv4_address']
-    #asset_id = data['asset.id']
-    asset_name = data['asset.name']
-    asset_tags = data['asset.tags']
-    #definition_id = data['definition.id']
-    definition_name = data['definition.name']
-    #definition_vpr_score = data['definition.vpr.score']
-    vulnerability_id = data['id']
-    #port = data['port']
-    #protocol = data['protocol']
-    severity = data['severity']
-    #state = data['state']
-else:
-    print("No data available to separate columns.")
-# Separate which data you want in each column 
+    # Print entire contents of each column
+    print("Display IPv4 Address:")
+    print(data['asset.display_ipv4_address'])
+    print("\nAsset Name:")
+    print(data['asset.name'])
+    print("\nAsset Operating System:")
+    print(data['asset.operating_system'])
+    print("\nAsset Tags:")
+    print(data['asset.tags'])
+    print("\nDefinition Description:")
+    print(data['definition.description'])
+    print("\nDefinition Name:")
+    print(data['definition.name'])
+    print("\nDefinition Solution:")
+    print(data['definition.solution'])
+    print("\nID:")
+    print(data['id'])
+    print("\nOutput:")
+    print(data['output'])
+    print("\nSeverity:")
+    print(data['severity'])
 
-print(asset_tags.head()) #column maybe?
-#print(asset_id.head())
-print(asset_name.head())
-print(vulnerability_id.head())
-print(severity.head())
-# You can now print which one you want 
+    # Define the path for the Excel file with a timestamp
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    excel_file_path = rf'C:\Users\sufia\Hmm\Amtrak\vulnerabilities_export_{timestamp}.xlsx'
+
+    # Export to Excel
+    try:
+        data.to_excel(excel_file_path, index=False)
+        print(f"Data exported successfully to {excel_file_path}")
+    except Exception as e:
+        print(f"An error occurred while exporting to Excel: {e}")
+else:
+    print("No data available to export.")
